@@ -1,0 +1,22 @@
+{
+    "name": "Goertzel",
+    "keywords": "Goertzel, DTMF, FSK",
+    "description": "This library implements a simple Goertzel algorithm for (multi-)tone decoding (DTMF, FSK, etc.)",
+    "repository":
+    {
+      "type": "git",
+      "url": "https://github.com/AI5GW/Goertzel"
+    },
+    "authors":
+    [
+      {
+        "name": "Sebastian Westerhold",
+        "email": "sebastian@baltic-lab.com",
+        "url": "https://baltic-lab.com",
+        "maintainer": true
+      }
+    ],
+    "version": "0.0.1",
+    "frameworks": "arduino",
+    "platforms": "*"
+  }
