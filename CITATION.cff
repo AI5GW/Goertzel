@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Westerhold
+    given-names: Sebastian
+    orcid: https://orcid.org/0000-0001-7965-3140
+title: "Goertzel algorithm library for Arduino"
+version: 1.0.0
+date-released: 2022-09-17
