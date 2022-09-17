@@ -1,7 +1,7 @@
 {
     "name": "Goertzel",
     "keywords": "Goertzel, DTMF, FSK",
-    "description": "This library implements a simple Goertzel algorithm for (multi-)tone decoding (DTMF, FSK, etc.)",
+    "description": "The Goertzel algorithm is a fast and resource-efficient way of evaluating just a small portion of a discrete Fourier transform (DFT). This library implements this algorithm for (multi-)tone decoding (DTMF, FSK, etc.)",
     "repository":
     {
       "type": "git",
@@ -16,7 +16,7 @@
         "maintainer": true
       }
     ],
-    "version": "0.0.1",
+    "version": "1.0.0",
     "frameworks": "arduino",
     "platforms": "*"
   }
