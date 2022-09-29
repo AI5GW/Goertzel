@@ -20,14 +20,14 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
 
-// include the Goertzel library
-#include <Goertzel.h>
-
 // Define the ADC midpoint (512 is the default)
-#define ADC_MIDPOINT 512;
+#define ADC_MIDPOINT 512
 
 // Define the sample rate (8800 S/s is the default for 16 MHz Boards)
-#define SAMPLE_RATE 8800;
+#define SAMPLE_RATE 8800
+
+// include the Goertzel library
+#include <Goertzel.h>
 
 // Array buffer for ADC samples
 int Samples[100];
