@@ -32,7 +32,7 @@ If you have any questions or comments, feel free to contact me through the email
 
 Arduino Lint Status
 -------------------
-[![arduino-lint Actions Status](https://github.com/AI5GW/CCIR476/workflows/arduino-lint/badge.svg)](https://github.com/AI5GW/Goertzel/actions) [![DOI](https://zenodo.org/badge/537810331.svg)](https://zenodo.org/badge/latestdoi/537810331)
+[![arduino-lint Actions Status](https://github.com/AI5GW/CCIR476/workflows/arduino-lint/badge.svg)](https://github.com/AI5GW/Goertzel/actions) [![DOI](https://zenodo.org/badge/537810331.svg)](https://zenodo.org/badge/latestdoi/537810331)  [![BADGE](https://www.ardu-badge.com/badge/Goertzel.svg)](https://www.ardu-badge.com/badge/Goertzel.svg)
 
 Changelog
 ---------
