@@ -5,5 +5,5 @@ authors:
     given-names: Sebastian
     orcid: https://orcid.org/0000-0001-7965-3140
 title: "Goertzel algorithm library for Arduino"
-version: 1.0.1
+version: 1.0.2
 date-released: 2022-09-17
